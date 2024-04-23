@@ -1,0 +1,7 @@
+train: D:\pycharmproject\ultralytics-main\images\train
+val: D:\pycharmproject\ultralytics-main\images\val
+test: D:\pycharmproject\ultralytics-main\images\test
+
+nc: 8
+
+names: ['crack', 'oil', 'damage', 'abrasion', 'w', 'hardware', 'insect', 'screw']  # class names
